@@ -1,6 +1,17 @@
 {
     "custom_nodes": [
         {
+            "title": "OD Loaders",
+            "description": "Custom loader nodes for GGUF Unets, LoRAs, and Diffusion models",
+            "author": "Omegadarling",
+            "reference": "https://github.com/Omegadarling/Comfyui-OD-Loaders",
+            "files": [
+                "https://github.com/Omegadarling/Comfyui-OD-Loaders"
+            ],
+            "install_type": "git-clone",
+            "tags": ["loaders", "GGUF", "LoRA", "diffusion"]
+        }
+        {
             "author": "Dr.Lt.Data",
             "title": "ComfyUI-Manager",
             "id": "manager",
